@@ -1,4 +1,4 @@
 # DristhiAirPollution
-Air Pollution Datasets for Ratnapark, Budhanilkantha.
+Air Pollution Dataset for Ratnapark, Budhanilkantha.
 
 ```Source``` http://drishti.live/#/
