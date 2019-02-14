@@ -5,7 +5,7 @@ You can find more information on air pollution data at http://drishti.live/
 
 ## Data
 
-PM2.5, Calibrated PM2.5 informations are available in the dataset. This is a historical dataset measure by a live station in Budhanilkantha and Putalisadak Kathmandu, fetch into the CSV document. The measuring scale is >=5 minutes.
+PM2.5, Calibrated PM2.5 informations are available in the dataset. You can learn more about the calibration techniques using nowcast algorithm. This is a historical data measured using "Origins Laser Egg" devices in Budhanilkantha and Putalisadak Kathmandu. The measuring scale is >=5 minutes.
 
 ### Categories
 
