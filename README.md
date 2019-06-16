@@ -16,6 +16,6 @@ PM2.5, Calibrated PM2.5 informations are available in the dataset. You can learn
 - Inserted Date
 ```
 
-# License
+## About data
 This data is available publicly to access.
 - Copyright 2019 © <a href="http://drishti.live/" target="_blank">Dristhi Live</a>
